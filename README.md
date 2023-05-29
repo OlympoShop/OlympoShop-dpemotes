@@ -1,17 +1,25 @@
 # OlympoShop - dpemotes
-Sistema para animaciones, contiene: Emotes, aminaciones, animaciones compartidas, bailes.....
-
-https://i.imgur.com/smvZ0Fx.mp4
+OlympoShop - dpemotes es un menú de animaciones de FiveM impulsado por la comunidad que permite a los jugadores expresarse en juegos de rol con animaciones personalizadas, innumerables expresiones faciales, estilos de caminar y accesorios.
 
 
 # Uniros a nuestro Discord 💬
 
-Report Issues ⚠️
+Informar problemas ⚠️
 
-Report Bugs 🪲
+Reportar errores ⚠️
 
-Contribute Code 🛠️
+Contribuir Código 🛠️
 
-Contribute Translations 🌎
+Chatea con nuestra increíble comunidad 🗨️
 
-Chat With Our Amazing Community 🗨️
+# Características 🛠️
+
+Animaciones personalizadas con permiso de la comunidad 🏃
+
+Bailes compartidos 🕺💃
+
+Señalar con el dedo 👆
+
+Muñeca de trapo 😵
+
+Manos arriba 🙌
