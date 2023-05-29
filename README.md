@@ -1,2 +1,2 @@
-# OlympoShop---dpemotes
+# OlympoShop - dpemotes
 Sistema para animaciones, contiene: Emotes, aminaciones, animaciones compartidas, bailes.....
