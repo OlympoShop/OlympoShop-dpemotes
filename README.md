@@ -1,7 +1,7 @@
 # OlympoShop - dpemotes
 Sistema para animaciones, contiene: Emotes, aminaciones, animaciones compartidas, bailes.....
 
-
+https://i.imgur.com/smvZ0Fx.mp4
 
 
 # Uniros a nuestro Discord 💬
